@@ -64,7 +64,7 @@ public class PhoneBook
     // Check whether the name exists in the current phone book
     public boolean exists(String name) {
         //
-        // Task 1 - Checking for duplicated new entry
+        // Checking for duplicated new entry
         //
         String line;
         // Get the path of the text file
